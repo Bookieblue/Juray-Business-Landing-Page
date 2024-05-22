@@ -7,11 +7,8 @@ This project is a modern and responsive business landing page built with Next.js
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
@@ -29,33 +26,9 @@ Check out the live demo [here](https://juray-business-landing-page.vercel.app/).
 
 - **Next.js**: A React framework for building fast and user-friendly web applications.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **TypeScript**: A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - **Framer Motion**: A library for creating animations in React applications.
 - **FontAwesome**: Icon library used for displaying icons in the features and benefits sections.
-
-## Installation
-
-1. Clone the repository:
-
-    ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2. Install dependencies:
-
-    ```sh
-    npm install
-    ```
-
-## Usage
-
-1. Start the development server:
-
-    ```sh
-    npm run dev
-    ```
-
-2. Open your browser and navigate to `http://localhost:3000` to see the landing page in action.
 
 ## Project Structure
 
@@ -65,17 +38,4 @@ Check out the live demo [here](https://juray-business-landing-page.vercel.app/).
 - `styles/`: Contains the global CSS file.
 - `constants/`: Contains constant data such as feature and benefit information.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch with a descriptive name.
-3. Make your changes and commit them with clear and concise messages.
-4. Push your changes to your forked repository.
-5. Create a pull request to the main repository.
-
-## License
-
-This project is licensed under the MIT License.
 
