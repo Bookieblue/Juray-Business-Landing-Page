@@ -19,7 +19,7 @@ const Faq = () => {
         </h6>
         <h3>Frequently Asked Questions</h3>
         <p className="text-gray-500">
-          We're here to help, everything you need to know.
+          We&apos;re here to help, everything you need to know.
         </p>
       </div>
       <div className="flex flex-col lg:flex-row gap-8 lg:mt-10 w-full">
