@@ -2,17 +2,6 @@
 Business Landing Page
 This project is a modern and responsive business landing page built with Next.js and Tailwind CSS. The landing page includes several sections, such as a hero section, a features section, a benefits section, a testimonials carousel, and an FAQ section. The page is designed to be fully responsive and visually appealing, utilizing Tailwind CSS for styling and Framer Motion for animations.
 
-Table of Contents
-Demo
-Features
-Technologies Used
-Installation
-Usage
-Project Structure
-Contributing
-License
-Demo
-Check out the live demo here.
 
 Features
 Hero Section: A visually engaging hero section with a call-to-action button.
