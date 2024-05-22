@@ -28,6 +28,7 @@ Check out the live demo [here](https://juray-business-landing-page.vercel.app/).
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **TypeScript**: A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - **Framer Motion**: A library for creating animations in React applications.
+- **Shadcn UI**: A library for for building component libraries or design systems.
 - **FontAwesome**: Icon library used for displaying icons in the features and benefits sections.
 
 ## Project Structure
